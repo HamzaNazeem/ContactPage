@@ -1,0 +1,91 @@
+
+.background{
+    background-color:rgb(141, 204, 183);
+    width: 100%;
+    height: 800px;
+    padding: 50px;
+}
+
+.main{
+    background-color: white;
+    width: 80%;
+    padding: 30px;  
+    display: flex; 
+    border-radius: 5px;
+
+    
+}
+.buttn{
+    background-color: rgb(86, 3, 164);
+    color: white;
+    border-radius: 5px;
+    border: 0ch;
+    margin-top: 15px;
+    
+}
+.heading{
+    color:  rgb(86, 3, 164);
+}
+.name{
+    background-color: rgb(239, 242, 243);
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    border: 0ch;
+    margin: 2px;
+
+
+}
+.emaill{
+    background-color: rgb(239, 242, 243);
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    border: 0ch;
+    margin: 2px;
+
+}
+.message{
+    background-color: rgb(239, 242, 243);
+    width: 100%;
+    height: 80px;
+    border-radius: 5px;
+    border: 0ch;
+    margin: 2px;
+
+}
+.logos{
+    width: 20%;
+    text-align: center;
+    border-right: 2px solid;
+    height: 250px;
+    margin-top: 50px;
+
+   
+
+    
+}
+.formside{
+    width: 80%;
+    margin-left: 30px;
+}
+.fa-solid{
+    color: rgb(86, 3, 164);
+    
+
+}
+.logos h4,.logos p{
+    line-height: 1px;
+}
+.address{
+    padding: 5px;
+}
+.phone{
+    padding: 5px;
+}
+.email{
+    padding: 5px;
+}
+
+
+    
